@@ -35,3 +35,5 @@ I'm a skilled software developer with a strong foundation in PHP, TypeScript, an
     <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
 </div>
 
+---
+
