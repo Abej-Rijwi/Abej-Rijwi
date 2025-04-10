@@ -1,3 +1,3 @@
 <p align="center">
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQH1Lb0GyCmH1A/profile-displaybackgroundimage-shrink_350_1400/B4EZYPKZgkHgAY-/0/1744011112907?e=1749686400&v=beta&t=Dg9wnLeNIyF5pyuLnhA1D0ots7-yyBd9fIgQPefCw-w" alt="Abej Rijwi " />
+<img src="https://www.canva.com/design/DAGkNoY3rtg/p1dNxewIjKJDzvBv2yDTZA/view?utm_content=DAGkNoY3rtg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4cbc215f4d" alt="Abej Rijwi " />
 </p>
