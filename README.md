@@ -61,8 +61,8 @@ I'm a skilled software developer with a strong foundation in PHP, TypeScript, an
   <a href="https://github.com/Abej-Rijwi/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-   <a href="https://github.com/Abej-Rijwi/">
-    <img src="https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Personal Website" />
+   <a href="https://portfolioreact-orcin-alpha.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Personal Website" />
   </a>
 </div>
 
