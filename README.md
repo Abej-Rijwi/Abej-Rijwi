@@ -19,23 +19,23 @@ I'm a skilled software developer with a strong foundation in PHP, TypeScript, an
 ### 🛠️ Skills | Technologies
 
 <div align="center">
-    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
-    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-    <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
-    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
-    <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
-    <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=47A248" alt="mongodb" />
-    <img src="https://img.shields.io/badge/-Clerk-black?style=for-the-badge&logoColor=white&logo=clerk&color=6C47FF" alt="clerk" />
-    <img src="https://img.shields.io/badge/-Shadcn_UI-black?style=for-the-badge&logoColor=white&logo=shadcnui&color=000000" alt="shadcnui" />
-    <img src="https://img.shields.io/badge/-Zod-black?style=for-the-badge&logoColor=white&logo=zod&color=3E67B1" alt="zod" />
-    <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-    <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
+    <img src="https://img.shields.io/badge/-Next_JS-4CAF50?style=for-the-badge&logoColor=white&logo=nextdotjs&color=4CAF50" alt="nextdotjs" />
+    <img src="https://img.shields.io/badge/-TypeScript-FF9800?style=for-the-badge&logoColor=white&logo=typescript&color=FF9800" alt="typescript" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-03A9F4?style=for-the-badge&logoColor=white&logo=tailwindcss&color=03A9F4" alt="tailwindcss" />
+    <img src="https://img.shields.io/badge/-Appwrite-9C27B0?style=for-the-badge&logoColor=white&logo=appwrite&color=9C27B0" alt="appwrite" />
+    <img src="https://img.shields.io/badge/-React_JS-2196F3?style=for-the-badge&logoColor=white&logo=react&color=2196F3" alt="react.js" />
+    <img src="https://img.shields.io/badge/-Three_JS-FFC107?style=for-the-badge&logoColor=white&logo=threedotjs&color=FFC107" alt="three.js" />
+    <img src="https://img.shields.io/badge/-MongoDB-FF5722?style=for-the-badge&logoColor=white&logo=mongodb&color=FF5722" alt="mongodb" />
+    <img src="https://img.shields.io/badge/-Clerk-673AB7?style=for-the-badge&logoColor=white&logo=clerk&color=673AB7" alt="clerk" />
+    <img src="https://img.shields.io/badge/-Shadcn_UI-FF4081?style=for-the-badge&logoColor=white&logo=shadcnui&color=FF4081" alt="shadcnui" />
+    <img src="https://img.shields.io/badge/-Zod-3F51B5?style=for-the-badge&logoColor=white&logo=zod&color=3F51B5" alt="zod" />
+    <img src="https://img.shields.io/badge/Twilio-673AB7?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" />
+    <img src="https://img.shields.io/badge/JavaScript-FFEB3B?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/HTML5-F44336?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/Node.js-8BC34A?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/CSS3-03A9F4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/Redux-9C27B0?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+    <img src="https://img.shields.io/badge/MUI-009688?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
 </div>
 
 ---
