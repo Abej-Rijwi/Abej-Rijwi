@@ -51,6 +51,7 @@ I'm a skilled software developer with a strong foundation in PHP, TypeScript, an
 ---
 
 ### 📬 Get in Touch
+
 <div align="center">
   <a href="https://www.linkedin.com/in/abej-rijwi/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -65,7 +66,7 @@ I'm a skilled software developer with a strong foundation in PHP, TypeScript, an
     <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Personal Website" />
   </a>
   <a href="tel:+919801272766">
-  <img src="https://img.shields.io/badge/Phone-F5C300?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
+  <img src="https://img.shields.io/badge/Phone-F5C300?style=for-the-badge&logo=phone&logoColor=white" alt="Phone Number" />
 </a>
 </div>
 
