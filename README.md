@@ -65,7 +65,7 @@ I'm a skilled software developer with a strong foundation in PHP, TypeScript, an
     <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Personal Website" />
   </a>
   <a href="tel:+919801272766">
-  <img src="https://img.shields.io/badge/Phone-%2B1234567890-34b7f1?style=for-the-badge&logo=phone&logoColor=white" alt="Phone Number" />
+  <img src="https://img.shields.io/badge/Phone-F5C300?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
 </a>
 </div>
 
