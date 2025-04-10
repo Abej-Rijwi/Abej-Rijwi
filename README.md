@@ -54,21 +54,22 @@ I'm a skilled software developer with a strong foundation in PHP, TypeScript, an
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abej-rijwi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-4C9CD6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:abejrijwicareers@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-FF6347?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Abej-Rijwi/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-4A4A4A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-   <a href="https://portfolioreact-orcin-alpha.vercel.app/">
-    <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Personal Website" />
+  <a href="https://portfolioreact-orcin-alpha.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-FF4500?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Personal Website" />
   </a>
   <a href="tel:+919801272766">
-  <img src="https://img.shields.io/badge/Phone-F5C300?style=for-the-badge&logo=phone&logoColor=white" alt="Phone Number" />
-</a>
+    <img src="https://img.shields.io/badge/Phone-32CD32?style=for-the-badge&logo=phone&logoColor=white" alt="Phone Number" />
+  </a>
 </div>
+
 
 ---
 
