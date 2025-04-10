@@ -10,9 +10,7 @@
   </div>
 </div>
 <br />
-
 I'm a skilled software developer with a strong foundation in PHP, TypeScript, and JavaScript, and hands-on expertise in popular frameworks like CodeIgniter, React, Node.js, and Next.js. I specialize in building efficient, scalable, and user-friendly web applications that solve real-world problems. With a passion for clean code and a collaborative approach, I work closely with clients and teams to understand their goals and deliver high-quality solutions on time. I'm a quick learner who thrives in dynamic environments and continuously explores new technologies to stay ahead in the industry.
-
 ---
 ### 🛠️ Skills | Technologies
 <div align="center">
@@ -34,6 +32,16 @@ I'm a skilled software developer with a strong foundation in PHP, TypeScript, an
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
     <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
 </div>
+---
+### 🚀 Featured Projects:
+
+- Building a full-stack clone of Threads (a social media platform) with Next.js 14+ involves several stages, including user interface design, backend API development, real-time features, user authentication, notifications, and community management. The platform should support various features like nested comments, real-time search, and notifications. [visit here][(https://github.com/khalidkhankakar/vision-board](https://github.com/Abej-Rijwi/threads))
+
+- **[DevPost Clone](https://devpost-gold.vercel.app/)** - A feature-rich clone of DevPost built with **Next.js**, **Clerk**, **MongoDB**, and **Tailwind CSS**. Supports article creation, updates, social login, and rich text editing. [GitHub Repo](https://github.com/khalidkhankakar/devpost)
+  
+- **[DevOverflow](https://codeoverflow-eta.vercel.app/)** - A StackOverflow clone where users can post questions, give answers, and like posts. Built using **React.js**, **Next.js**, and **MongoDB**. [GitHub Repo](https://github.com/khalidkhankakar/codeoverflow)
+
+- **[Bookshelf Web Project](https://github.com/khalidkhankakar/bookshelf)** - A scalable web app to upload, read, and purchase PDFs using **Next.js**, **Firebase** for storage, and **TypeScript** for type safety.
 
 ---
 
