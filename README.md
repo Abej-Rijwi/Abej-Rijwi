@@ -42,13 +42,11 @@ I'm a skilled software developer with a strong foundation in PHP, TypeScript, an
 
 ### 🚀 Featured Projects
 
-- Building a full-stack clone of Threads (a social media platform) with Next.js 14+ involves several stages, including user interface design, backend API development, real-time features, user authentication, notifications, and community management. The platform should support various features like nested comments, real-time search, and notifications. [visit here](https://github.com/Abej-Rijwi/threads))
+- Building a full-stack clone of Threads (a social media platform) with Next.js 14+ involves several stages, including user interface design, backend API development, real-time features, user authentication, notifications, and community management. The platform should support various features like nested comments, real-time search, and notifications. [GitHub Repository](https://github.com/Abej-Rijwi/threads))
 
-- **[DevPost Clone](https://devpost-gold.vercel.app/)** - A feature-rich clone of DevPost built with **Next.js**, **Clerk**, **MongoDB**, and **Tailwind CSS**. Supports article creation, updates, social login, and rich text editing. [GitHub Repo](https://github.com/khalidkhankakar/devpost)
+- Building a healthcare platform that streamlines patient registration, appointment scheduling, medical record management, complex forms, and SMS notifications is a large-scale project that involves both front-end and back-end components, integration with third-party services, and security measures to protect sensitive health data. [GitHub Repository](https://github.com/Abej-Rijwi/healthcare)
   
-- **[DevOverflow](https://codeoverflow-eta.vercel.app/)** - A StackOverflow clone where users can post questions, give answers, and like posts. Built using **React.js**, **Next.js**, and **MongoDB**. [GitHub Repo](https://github.com/khalidkhankakar/codeoverflow)
-
-- **[Bookshelf Web Project](https://github.com/khalidkhankakar/bookshelf)** - A scalable web app to upload, read, and purchase PDFs using **Next.js**, **Firebase** for storage, and **TypeScript** for type safety.
+- The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today! [GitHub Repository](https://github.com/Abej-Rijwi/portfolio)
 
 ---
 
