@@ -5,7 +5,7 @@
     </a>
   <br />
   <div>
-    <img src="https://img.shields.io/github/followers/Abej-Rijwi?label=Followers&style=social" alt="badge" />
-    <img src="https://img.shields.io/github/stars/Abej-Rijwi?label=GitHub%20Stars&style=social" alt="stars" />
+    <img src="https://img.shields.io/github/followers/Abej-Rijwi?label=Followers&style=social" alt="badge" width="200" />
+    <img src="https://img.shields.io/github/stars/Abej-Rijwi?label=GitHub%20Stars&style=social" alt="stars" width="200" />
   </div>
 </div>
