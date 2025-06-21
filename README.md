@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://www.youtube.com/@JavaScriptTutorialFamily" target="_blank">
+    <a href="https://www.youtube.com/channel/UChz-VlXINivlDUpeOz9v5kg" target="_blank">
       <img src="banner.png" alt="Abej Rijwi" />
     </a>
   <br />
